@@ -1,8 +1,14 @@
 ### Procedure
-Hardware Setup – 
-1. Connect one wire between the Raspberry Pi's GND (ground) pin and the breadboard's blue line.
-2. Examine the two pins on the LED. One is obviously shorter than the other. 
-3. Connect the shorter pin to the blue GND line, and the longer to any other connection.
-4. Connect one resistor pin to the same line as the longer LED pin, and the other resistor pin to a separate line.
-5. Finally, connect one wire between the same line as the other resistor pin and the GPIO number 17 to complete the circuit (more on Raspberry Pi pins and GPIOs). The sixth pin on the GPIO header.
+## What you need?
+*Raspberry Pi?
+There are several models of Raspberry Pi . Raspberry Pi 4 Model B is the newest, fastest, and easiest to use.
+Raspberry Pi 4 comes with 2GB, 4GB, or 8GB of RAM. For most educational purposes and hobbyist projects, and for use as a desktop computer, 2GB is enough.
+* A power supply
+To connect to a power socket, all Raspberry Pi models have a USB port (the same found on many mobile phones): either USB-C for Raspberry Pi 4, or micro USB for Raspberry Pi 3, 2, and 1.
+* A microSD card
+Your Raspberry Pi needs an SD card to store all its files and the Raspberry Pi OS operating system.
 
+*A keyboard and a mouse
+To start using your Raspberry Pi, you need a USB keyboard and a USB mouse.
+
+Once you’ve set up your Raspberry Pi, you can use a Bluetooth keyboard and mouse, but you’ll need a USB keyboard and mouse for the first setup.
