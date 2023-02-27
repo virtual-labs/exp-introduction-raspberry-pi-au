@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": " What will happen if Resistor is not used?",
+      "answers": {
+        "a": "Excessive current might damage the Raspberry Pi or burn out the LED.",
+        "b": "If an excessive amount of electricity is transmitted, nothing will happen to the Raspberry Pi or the LED.",
+        "c": "If too much electricity is put through, the Raspberry Pi and LED will cease operating after a while.",
+        "d": "Excess current has no effect on the Raspberry Pi; however, the LED will cease operating"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For setting up GPIO for LED, What command did we use ?",
+      "answers": {
+        "a": "GPIO.output",
+        "b": "GPIO.setmode",
+        "c": "GPIO.setup",
+        "d": "GPIO.output"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
