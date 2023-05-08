@@ -1,1 +1,1 @@
-### Aim of the experiment
+### Introduction to Raspberry PI platform and necessary software installation.
