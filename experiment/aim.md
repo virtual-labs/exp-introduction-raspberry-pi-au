@@ -1,1 +1,2 @@
-### Introduction to Raspberry PI platform and necessary software installation.
+## Aim
+To familiar with  Raspberry PI platform and software installation.
