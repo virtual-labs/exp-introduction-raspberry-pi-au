@@ -3,13 +3,13 @@
 
 <head>
   <meta charset="UTF-8" />
-  <link rel="icon" type="image/svg+xml" href="./vite.svg" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
+  
 
   <title>Vite App</title>
-  <script type="module" crossorigin src="./assets/index-6286b1d1.js"></script>
-  <link rel="stylesheet" href="./assets/index-c8fdd574.css">
+  <script type="module" crossorigin src="./assets/index-ee0ba5cc.js"></script>
+  <link rel="stylesheet" href="./assets/index-7592db02.css">
 </head>
 
 <body class="drawer drawer-end container-fluid h-full bg-base-100">
@@ -21,7 +21,7 @@
     <div class="text-center bg-secondary p-4 rounded-b-xl">
       <button class="button float-left btn btn-warning btn-md w-40"
         onClick="window.location.href=window.location.href">RESET</button>
-      <span class="text-black font-serif font-light text-4xl">BLINK THE LED</span>
+      <span class="text-black font-serif font-light text-4xl">Raspberry_Pi</span>
       <label for="my-drawer-4" class="drawer-button btn btn-primary btn-md float-right w-40">&#x2630; CODE</label>
     </div>
     <!-- --------------NAVBAR AREA  ENDS -------------------->
@@ -31,15 +31,28 @@
       <div class="w-1/3 m-5 hidden-scroll sm:block bg-base-200 p-6 ">
         <div id="headline">
           <p class=" ">
-            <span class="font-medium text-xl">Aim</span> : Get Started with rasberryPi and simulation platform
+            <span class="font-medium text-xl">Aim</span> : <b>Get Started with rasberryPi and simulation platform</b>
           </p>
         </div>
 
         <div id="theory">
-          <h2 class="text-xl font-bold mt-8">Instructions</h2>
+          <h2 class="text-xl font-bold mt-8">Software Installation</h2>
+            <ul class="list-disc ml-8 mt-4">
+            <li>Update the Raspberry Pi: Before installing any software, it is always recommended to update the Raspberry Pi's software packages to ensure that you have the latest security updates and bug fixes. Open a terminal window and type the following commands:</li>
+            <br><p>sudo apt-get update</p>
+             <p> sudo apt-get upgrade
+              </p><br>
+              <li>Choose the software you want to install: There are thousands of software packages available for the Raspberry Pi, including web servers, media centers, development tools, and more. You can browse the available packages using the Raspberry Pi's package manager by typing:</li>
+              <br> <p>sudo apt-cache search keyword </p>
+              <p>Replace "package-name" with the name of the software package you want to install.</p>
+              <br>
+              <li>Configure the software: Depending on the software you installed, you may need to configure it before you can use it. Consult the software's documentation for instructions on how to do this</li>
+              <li>Verify the installation: Once you have installed and configured the software, you can verify that it is working properly by testing it.</li>
+            <h2 class="text-xl font-bold mt-8">Instructions</h2>
+            </ul>
           <ul class="list-disc ml-8 mt-4">
             <li>Click on the components to start interacting it with in the connection area</li>
-            <li>Hover over the rasberrypi connections to get informations about various connections pin </li>
+            <li>Hover over the raspberrypi connections to get informations about various connections pin </li>
             <li>Double click on various connections points to make connections </li>
             <li>Double click on the empty space in the connection area to extend and bend wire connections </li>
           </ul>
@@ -97,7 +110,7 @@
       <button id="codeSubmit" class="btn btn-primary">Submit</button>
     </pre>
   </div>
-
+ 
 
 
 
