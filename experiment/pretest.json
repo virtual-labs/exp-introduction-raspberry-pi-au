@@ -2,36 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following is a programming language commonly used with Raspberry Pi?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "JavaScript",
+        "b": "Python",
+        "c": "Ruby",
+        "d": "C++"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which operating system is commonly used with Raspberry Pi?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Windows 10",
+        "b": " macOS",
+        "c": "Linux",
+        "d": " iOS"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the primary purpose of a Raspberry Pi?",
+      "answers": {
+        "a": "To play video games",
+        "b": "To browse the internet",
+        "c": "To create custom electronics projects",
+        "d": "To watch movies"
       },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     }

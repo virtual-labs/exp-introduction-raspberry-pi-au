@@ -2,36 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": " What will happen if Resistor is not used?",
+      "question": "Which of the following is a programming language commonly used with Raspberry Pi?",
       "answers": {
-        "a": "Excessive current might damage the Raspberry Pi or burn out the LED.",
-        "b": "If an excessive amount of electricity is transmitted, nothing will happen to the Raspberry Pi or the LED.",
-        "c": "If too much electricity is put through, the Raspberry Pi and LED will cease operating after a while.",
-        "d": "Excess current has no effect on the Raspberry Pi; however, the LED will cease operating"
+        "a": "JavaScript",
+        "b": "Python",
+        "c": "Ruby",
+        "d": "C++"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "For setting up GPIO for LED, What command did we use ?",
+      "question": "Which operating system is commonly used with Raspberry Pi?",
       "answers": {
-        "a": "GPIO.output",
-        "b": "GPIO.setmode",
-        "c": "GPIO.setup",
-        "d": "GPIO.output"
+        "a": "Windows 10",
+        "b": " macOS",
+        "c": "Linux",
+        "d": " iOS"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the primary purpose of a Raspberry Pi?",
+      "answers": {
+        "a": "To play video games",
+        "b": "To browse the internet",
+        "c": "To create custom electronics projects",
+        "d": "To watch movies"
       },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
