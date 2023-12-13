@@ -47,7 +47,7 @@
             <dc:source>element14.com</dc:source>
             <dc:subject>
                <rdf:Bag>
-                  <rdf:li>Rasberry Pi3 GPIO Diagram</rdf:li>
+                  <rdf:li>Raspberry Pi3 GPIO Diagram</rdf:li>
                </rdf:Bag>
             </dc:subject>
             <dc:relation>http://i.stack.imgur.com/yWGmW.png</dc:relation>
