@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which of the following is a programming language commonly used with Raspberry Pi?",
+      "answers": {
+        "a": "JavaScript",
+        "b": "Python",
+        "c": "Ruby",
+        "d": "C++"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which operating system is commonly used with Raspberry Pi?",
+      "answers": {
+        "a": "Windows 10",
+        "b": " macOS",
+        "c": "Linux",
+        "d": " iOS"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the primary purpose of a Raspberry Pi?",
+      "answers": {
+        "a": "To play video games",
+        "b": "To browse the internet",
+        "c": "To create custom electronics projects",
+        "d": "To watch movies"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

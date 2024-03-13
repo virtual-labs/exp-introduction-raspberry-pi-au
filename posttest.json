@@ -1,0 +1,38 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which GPIO pin numbering scheme is commonly used with Raspberry Pi?",
+      "answers": {
+        "a": "Physical pin numbering",
+        "b": "Broadcom (BCM) GPIO numbering",
+        "c": "WiringPi numbering",
+        "d": "Board numbering"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the purpose of the NOOBS software on Raspberry Pi?",
+      "answers": {
+        "a": "To provide a selection of pre-installed operating systems",
+        "b": "To manage overclocking settings",
+        "c": "To optimize power consumption",
+        "d": "To control network settings"
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which component of Raspberry Pi provides wireless connectivity?",
+      "answers": {
+        "a": "Ethernet port",
+        "b": "USB port",
+        "c": "HDMI port",
+        "d": "Wi-Fi and Bluetooth module"
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    }
+  ]
+}
