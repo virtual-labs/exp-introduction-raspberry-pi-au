@@ -2,40 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which of the following is a programming language commonly used with Raspberry Pi?",
+      "question": "Which GPIO pin numbering scheme is commonly used with Raspberry Pi?",
       "answers": {
-        "a": "JavaScript",
-        "b": "Python",
-        "c": "Ruby",
-        "d": "C++"
+        "a": "Physical pin numbering",
+        "b": "Broadcom (BCM) GPIO numbering",
+        "c": "WiringPi numbering",
+        "d": "Board numbering"
       },
-      
       "correctAnswer": "b",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     },
     {
-      "question": "Which operating system is commonly used with Raspberry Pi?",
+      "question": "What is the purpose of the NOOBS software on Raspberry Pi?",
       "answers": {
-        "a": "Windows 10",
-        "b": " macOS",
-        "c": "Linux",
-        "d": " iOS"
+        "a": "To provide a selection of pre-installed operating systems",
+        "b": "To manage overclocking settings",
+        "c": "To optimize power consumption",
+        "d": "To control network settings"
       },
-      
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
     },
     {
-      "question": "What is the primary purpose of a Raspberry Pi?",
+      "question": "Which component of Raspberry Pi provides wireless connectivity?",
       "answers": {
-        "a": "To play video games",
-        "b": "To browse the internet",
-        "c": "To create custom electronics projects",
-        "d": "To watch movies"
+        "a": "Ethernet port",
+        "b": "USB port",
+        "c": "HDMI port",
+        "d": "Wi-Fi and Bluetooth module"
       },
-     
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
     }
   ]
 }

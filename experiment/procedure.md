@@ -8,3 +8,7 @@ There are several models of Raspberry Pi . Raspberry Pi 4 Model B is the newest,
 A keyboard and a mouse To start using your Raspberry Pi, you need a USB keyboard and a USB mouse.
 
 Once you’ve set up your Raspberry Pi, you can use a Bluetooth keyboard and mouse, but you’ll need a USB keyboard and mouse for the first setup.
+
+
+
+
