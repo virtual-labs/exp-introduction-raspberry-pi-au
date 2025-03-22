@@ -1,0 +1,60 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which of the following is a programming language commonly used with Raspberry Pi?",
+      "answers": {
+        "a": "JavaScript",
+        "b": "Python",
+        "c": "Ruby",
+        "d": "C++"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which operating system is commonly used with Raspberry Pi?",
+      "answers": {
+        "a": "Windows 10",
+        "b": "macOS",
+        "c": "Linux",
+        "d": "iOS"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the primary purpose of a Raspberry Pi?",
+      "answers": {
+        "a": "To play video games",
+        "b": "To browse the internet",
+        "c": "To create custom electronics projects",
+        "d": "To watch movies"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What type of power supply is typically required for a Raspberry Pi 4 Model B?",
+      "answers": {
+        "a": "USB-A with 1.5A",
+        "b": "USB-C with 3A",
+        "c": "Micro USB with 2A",
+        "d": "Barrel connector with 5A"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is a common GPIO pin function on a Raspberry Pi?",
+      "answers": {
+        "a": "Audio output",
+        "b": "General Purpose Input/Output",
+        "c": "Video rendering",
+        "d": "Battery charging"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
