@@ -7,3 +7,4 @@ There are several models of Raspberry Pi. The Raspberry Pi 4 Model B is the newe
 
 1. Read the instructions carefully. Click on the component to start interacting with it in the connection area.
 2. Hover over the Raspberry Pi connection pins to get information about the various connection pins.
+
