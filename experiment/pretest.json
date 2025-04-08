@@ -12,49 +12,50 @@
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
+    
     {
-      "question": "Which operating system is commonly used with Raspberry Pi?",
+      "question": "What is the typical voltage level for Raspberry Pi GPIO pins?",
       "answers": {
-        "a": "Windows 10",
-        "b": "macOS",
-        "c": "Linux",
-        "d": "iOS"
+        "a": "1.8V",
+        "b": "3.3V",
+        "c": "5V",
+        "d": "12V"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which interface on Raspberry Pi is best suited for high-speed communication with an external ADC (Analog to Digital Converter)?",
+      "answers": {
+        "a": "UART",
+        "b": "HDMI",
+        "c": "SPI",
+        "d": "I2C"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the main purpose of the GPIO pins on Raspberry Pi?",
+      "answers": {
+        "a": "To connect to a monitor",
+        "b": "To install operating systems",
+        "c": "To interface with external electronic components",
+        "d": "To run Linux commands"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "What is the primary purpose of a Raspberry Pi?",
+      "question": "What does GPIO stand for?",
       "answers": {
-        "a": "To play video games",
-        "b": "To browse the internet",
-        "c": "To create custom electronics projects",
-        "d": "To watch movies"
+        "a": "General Purpose Input Output",
+        "b": "Graphical Processing Input Output",
+        "c": "General Power Input Output",
+        "d": "Ground Point Integrated Output"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "What type of power supply is typically required for a Raspberry Pi 4 Model B?",
-      "answers": {
-        "a": "USB-A with 1.5A",
-        "b": "USB-C with 3A",
-        "c": "Micro USB with 2A",
-        "d": "Barrel connector with 5A"
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "Which of the following is a common GPIO pin function on a Raspberry Pi?",
-      "answers": {
-        "a": "Audio output",
-        "b": "General Purpose Input/Output",
-        "c": "Video rendering",
-        "d": "Battery charging"
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
+      "correctAnswer": "a",
+      "difficulty": "easy"
     }
   ]
 }
