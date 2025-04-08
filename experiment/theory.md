@@ -7,7 +7,7 @@ The **Raspberry Pi** is a small, affordable single-board computer developed by t
 
 The board can run a full Linux operating system (commonly Raspberry Pi OS) and is capable of performing tasks such as programming, running servers, automating hardware, and even creating media centers and IoT systems.
 
-   <div><img src="./images/Raspberry.jpg" alt="re-entrance"></div>
+   <div><img src="./images/Raspberry.jpg" alt="re-entrance" width='70%'></div>
 
 
 
