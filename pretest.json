@@ -1,0 +1,61 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which of the following is a programming language commonly used with Raspberry Pi?",
+      "answers": {
+        "a": "JavaScript",
+        "b": "Python",
+        "c": "Ruby",
+        "d": "C++"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    
+    {
+      "question": "What is the typical voltage level for Raspberry Pi GPIO pins?",
+      "answers": {
+        "a": "1.8V",
+        "b": "3.3V",
+        "c": "5V",
+        "d": "12V"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which interface on Raspberry Pi is best suited for high-speed communication with an external ADC (Analog to Digital Converter)?",
+      "answers": {
+        "a": "UART",
+        "b": "HDMI",
+        "c": "SPI",
+        "d": "I2C"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the main purpose of the GPIO pins on Raspberry Pi?",
+      "answers": {
+        "a": "To connect to a monitor",
+        "b": "To install operating systems",
+        "c": "To interface with external electronic components",
+        "d": "To run Linux commands"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What does GPIO stand for?",
+      "answers": {
+        "a": "General Purpose Input Output",
+        "b": "Graphical Processing Input Output",
+        "c": "General Power Input Output",
+        "d": "Ground Point Integrated Output"
+      },
+      "correctAnswer": "a",
+      "difficulty": "easy"
+    }
+  ]
+}
