@@ -2,10 +2,10 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which GPIO pin numbering scheme is commonly used with Raspberry Pi?",
+      "question": "Which GPIO pin numbering scheme is most commonly used in Raspberry Pi programming?",
       "answers": {
         "a": "Physical pin numbering",
-        "b": "Broadcom (BCM) GPIO numbering",
+        "b": "Broadcom (BCM) numbering",
         "c": "WiringPi numbering",
         "d": "Board numbering"
       },
@@ -13,26 +13,60 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "What is the purpose of the NOOBS software on Raspberry Pi?",
+      "question": "What is the maximum safe voltage that can be applied to a Raspberry Pi GPIO pin?",
       "answers": {
-        "a": "To provide a selection of pre-installed operating systems",
-        "b": "To manage overclocking settings",
-        "c": "To optimize power consumption",
-        "d": "To control network settings"
+        "a": "3.3V",
+        "b": "5V",
+        "c": "12V",
+        "d": "1.8V"
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
     },
     {
-      "question": "Which component of Raspberry Pi provides wireless connectivity?",
+      "question": "Which Raspberry Pi component allows you to connect to a network without cables?",
       "answers": {
         "a": "Ethernet port",
-        "b": "USB port",
+        "b": "Wi-Fi module",
         "c": "HDMI port",
-        "d": "Wi-Fi and Bluetooth module"
+        "d": "USB hub"
       },
-      "correctAnswer": "d",
+      "correctAnswer": "b",
       "difficulty": "intermediate"
-    }
+    },
+    {
+      "question": "What is the main function of I2C pins on a Raspberry Pi?",
+      "answers": {
+        "a": "To send audio signals",
+        "b": "To connect to serial devices like sensors",
+        "c": "To power motors directly",
+        "d": "To display video"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the default logic level for a Raspberry Pi GPIO pin set as OUTPUT?",
+      "answers": {
+        "a": "Low (0V)",
+        "b": "High (3.3V)",
+        "c": "Floating",
+        "d": "Depends on previous state"
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+  "question": "Which Raspberry Pi interface allows communication with devices using clock and data lines, often used for sensors and displays?",
+  "answers": {
+    "a": "UART",
+    "b": "SPI",
+    "c": "I2C",
+    "d": "PWM"
+  },
+  "correctAnswer": "c",
+  "difficulty": "intermediate"
+}
+
   ]
 }
