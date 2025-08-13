@@ -1,122 +1,106 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  <meta charset="UTF-8" />
-  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  
-
-  <title>Vite App</title>
-  <script type="module" crossorigin src="js/index-5cf4749a.js"></script>
-  <link rel="stylesheet" href="css/index-5874c9d2.css">
-</head>
-
-<body class="drawer drawer-end container-fluid h-full bg-base-100">
-  <!-- <div class="drawer drawer-end"> -->
-  <input id="my-drawer-4" type="checkbox" class="drawer-toggle" />
-  <div class="drawer-content">
-
-    <!-- ------------- NAV BAR  AREA--------------------- -->
-   
-    <!-- --------------NAVBAR AREA  ENDS -------------------->
-
-    <!-- Information Area -->
-    <div class="flex flex-col sm:flex-row ">
-      <div class="w-1/3  hidden-scroll sm:block bg-base-200 p-6 ">
-       
-
-        <div id="theory">
-        
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <title>Raspberry Pi Familiarization</title>
+    <script type="module" crossorigin src="js/index-1239426f.js"></script>
+    <link rel="stylesheet" href="css/index-3007cf98.css">
+  </head>
+  <body class="drawer drawer-end container-fluid h-full bg-base-100">
+    <div class="drawer-content">
+      <!-- Information Area -->
+      <div class="flex flex-col sm:flex-row">
+        <div class="w-1/3 m-5 hidden-scroll sm:block bg-base-200 p-6">
+          <div id="theory">
             <h2 class="text-xl font-bold mt-8">Instructions</h2>
-            <ul class="list-disc ml-8 mt-4" >
-              <li>Click on the components to start interacting it with in the connection area</li>
-              <li>Hover over the raspberry Pi connections to get informations about various connections pin </li>
-            
-            </ul>
-          <h2 class="text-xl font-bold mt-8">Software Installation</h2>
             <ul class="list-disc ml-8 mt-4">
-            <li>Update the Raspberry Pi: Before installing any software, it is always recommended to update the Raspberry Pi's software packages to ensure that you have the latest security updates and bug fixes. Open a terminal window and type the following commands:</li>
-            <br><p>sudo apt-get update</p>
-             <p> sudo apt-get upgrade
-              </p><br>
-              <li>Choose the software you want to install: There are thousands of software packages available for the Raspberry Pi, including web servers, media centers, development tools, and more. You can browse the available packages using the Raspberry Pi's package manager by typing:</li>
-              <br> <p>sudo apt-cache search keyword </p>
-              <p>Replace "package-name" with the name of the software package you want to install.</p>
-              <br>
-              <li>Configure the software: Depending on the software you installed, you may need to configure it before you can use it. Consult the software's documentation for instructions on how to do this</li>
-              <li>Verify the installation: Once you have installed and configured the software, you can verify that it is working properly by testing it.</li>
-          
+              <li>
+                Click on the components to start interacting it with in the
+                connection area
+              </li>
+              <li>
+                Hover over the raspberry Pi connections to get informations
+                about various connections pin
+              </li>
             </ul>
-         
-
-         
-
+            <h2 class="text-xl font-bold mt-8">Software Installation</h2>
+            <ul class="list-disc ml-8 mt-4">
+              <li>
+                Update the Raspberry Pi: Before installing any software, it is
+                always recommended to update the Raspberry Pi's software
+                packages to ensure that you have the latest security updates and
+                bug fixes. Open a terminal window and type the following
+                commands:
+              </li>
+              <br />
+              <p>sudo apt-get update</p>
+              <p>sudo apt-get upgrade</p>
+              <br />
+              <li>
+                Choose the software you want to install: There are thousands of
+                software packages available for the Raspberry Pi, including web
+                servers, media centers, development tools, and more. You can
+                browse the available packages using the Raspberry Pi's package
+                manager by typing:
+              </li>
+              <br />
+              <p>sudo apt-cache search keyword</p>
+              <p>
+                Replace "package-name" with the name of the software package you
+                want to install.
+              </p>
+              <br />
+              <li>
+                Configure the software: Depending on the software you installed,
+                you may need to configure it before you can use it. Consult the
+                software's documentation for instructions on how to do this
+              </li>
+              <li>
+                Verify the installation: Once you have installed and configured
+                the software, you can verify that it is working properly by
+                testing it.
+              </li>
+            </ul>
+          </div>
         </div>
-      </div>
 
-      <!------------------------ Information area ENDS --------------->
-
-      <!----------------------------- Components---------------------------------- -->
-      <div class="sm:w-2/3 h-screen">
-        <div class="h-full">
-
-          <div id="components" class="components">
-
-            <div id="rasberryPi" class="component bg-slate-200 rounded-lg text-center">
-              <img src="images/pi3dirk.svg" class="w-20 h-20">
-              <span class="card-title">Raspberry Pi</span>
+        <!-- Components Area -->
+        <div class="sm:w-2/3 h-screen">
+          <div class="h-full">
+            <div id="components" class="components">
+              <button class="button float-right btn btn-warning btn-md w-40 m-4" onclick="window.location.href=window.location.href">RESET</button>
+              <div id="rasberryPi" class="component bg-slate-200 rounded-lg text-center">
+                <img src="images/pi3dirk.svg" class="w-20 h-20" />
+                <span class="card-title">Raspberry Pi</span>
+              </div>
             </div>
-
-          </div>
-
-          <hr>
-
-          <div id="svg" class="h-auto overflow-hidden m-4">
-            <span
-              class="text-white bg-slate-600 font-serif font-light text-xl border border-solid border-black float-right text-center w-52 h-12 rounded-lg"
-              id="displayInfo">CONNECTOR INFO</span>
+            <!-- Component Description Area -->
+            <div id="componentDescription" class="text-base text-gray-700 mt-2 p-2 bg-gray-100 rounded-lg" style="display: none; width: 100%; max-width: 600px; margin-left: 1rem;">
+              Hover over a component to see its description.
+            </div>
+            <hr />
+            <div id="svg" class="h-auto overflow-hidden m-4" style="margin-top: 4rem;">
+              <span class="text-white bg-slate-600 font-serif font-light text-xl border border-solid border-black float-right text-center w-52 h-12 rounded-lg" id="displayInfo">CONNECTOR INFO</span>
+            </div>
           </div>
         </div>
       </div>
-
-
-      <!------------------- Component ENDS= ----------------- -->
-
     </div>
-  </div>
 
-
-  <!---------------------- Coding Area ------------------------->
-  <div class="drawer-side">
-    <label for="my-drawer-4" class="drawer-overlay">
-    </label>
-
-    <pre contenteditable="false" spellcheck="false">
-      <span>You can write code here and define the pins</span>
-      
-      <button id="codeSubmit" class="btn btn-primary">Submit</button>
-    </pre>
-  </div>
- 
-
-
-
-  <div class="fixed inset-0 items-center justify-center bg-gray-900 bg-opacity-75 hidden" id="errorBox">
-    <div class="bg-red-500 p-8 rounded-lg shadow-lg">
-      <h2 class="text-white text-2xl mb-4" id="errorHeading">Error!</h2>
-      <p class="text-white" id="errorText">Sorry, an error has occurred.</p>
-      <button id="closeErrorBox"
-        class="mt-4 px-4 py-2 bg-white text-red-500 font-semibold rounded-lg shadow-md hover:bg-red-500 hover:text-white">
-        OK
-      </button>
+    <!-- Error Box -->
+    <div class="fixed inset-0 items-center justify-center bg-gray-900 bg-opacity-75 hidden" id="errorBox">
+      <div class="bg-red-500 p-8 rounded-lg shadow-lg">
+        <h2 class="text-white text-2xl mb-4" id="errorHeading">Error!</h2>
+        <p class="text-white" id="errorText">Sorry, an error has occurred.</p>
+        <button id="closeErrorBox" class="mt-4 px-4 py-2 bg-white text-red-500 font-semibold rounded-lg shadow-md hover:bg-red-500 hover:text-white">
+          OK
+        </button>
+      </div>
     </div>
-  </div>
 
-
-
-
-</body>
-
-
+    
+  </body>
 </html>
