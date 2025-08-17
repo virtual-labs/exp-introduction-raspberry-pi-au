@@ -1,0 +1,120 @@
+
+/home/runner/work/exp-introduction-raspberry-pi-au/exp-introduction-raspberry-pi-au/experiment/simulation/js/index-0eb777b4.js
+    58:17  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+    94:17  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+    98:17  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   128:8   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   273:6   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   290:8   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   421:14  warning  'n' is assigned a value but never used                                     no-unused-vars
+  1063:13  warning  Expected a 'break' statement before 'case'                                 no-fallthrough
+  1319:6   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1346:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1348:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1350:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1352:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1354:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1356:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1358:12  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1676:63  warning  'WebKitCSSMatrix' is not defined                                           no-undef
+  2028:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2624:15  warning  'n' is defined but never used                                              no-unused-vars
+  2627:13  warning  'n' is defined but never used                                              no-unused-vars
+
+/home/runner/work/exp-introduction-raspberry-pi-au/exp-introduction-raspberry-pi-au/experiment/simulation/js/index-1239426f.js
+    58:17  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+    94:17  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+    98:17  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   128:8   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   273:6   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   290:8   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   421:14  warning  'n' is assigned a value but never used                                     no-unused-vars
+  1063:13  warning  Expected a 'break' statement before 'case'                                 no-fallthrough
+  1319:6   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1346:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1348:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1350:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1352:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1354:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1356:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1358:12  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1676:63  warning  'WebKitCSSMatrix' is not defined                                           no-undef
+  2028:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2624:15  warning  'n' is defined but never used                                              no-unused-vars
+  2627:13  warning  'n' is defined but never used                                              no-unused-vars
+
+/home/runner/work/exp-introduction-raspberry-pi-au/exp-introduction-raspberry-pi-au/experiment/simulation/js/index-1d4082be.js
+    58:29  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+    94:21  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+    98:21  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   128:12  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   273:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   290:14  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   421:16  warning  'n' is assigned a value but never used                                     no-unused-vars
+  1063:25  warning  Expected a 'break' statement before 'case'                                 no-fallthrough
+  1319:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1346:16  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1348:20  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1350:24  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1352:28  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1354:32  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1356:36  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1358:42  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1675:65  warning  'WebKitCSSMatrix' is not defined                                           no-undef
+  2027:20  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2724:17  warning  'n' is defined but never used                                              no-unused-vars
+  2727:15  warning  'n' is defined but never used                                              no-unused-vars
+  2944:51  warning  'connectedPointSequence' is not defined                                    no-undef
+
+/home/runner/work/exp-introduction-raspberry-pi-au/exp-introduction-raspberry-pi-au/experiment/simulation/js/index-5cf4749a.js
+    58:17  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+    94:17  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+    98:17  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   128:8   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   273:6   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   290:8   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   421:14  warning  'n' is assigned a value but never used                                     no-unused-vars
+  1063:13  warning  Expected a 'break' statement before 'case'                                 no-fallthrough
+  1319:6   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1346:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1348:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1350:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1352:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1354:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1356:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1358:12  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1676:63  warning  'WebKitCSSMatrix' is not defined                                           no-undef
+  2028:10  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2726:15  warning  'n' is defined but never used                                              no-unused-vars
+  2729:13  warning  'n' is defined but never used                                              no-unused-vars
+  2961:45  warning  'connectedPointSequence' is not defined                                    no-undef
+
+/home/runner/work/exp-introduction-raspberry-pi-au/exp-introduction-raspberry-pi-au/experiment/simulation/js/index-8b4b69dc.js
+  1:1238   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:1600   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1:1907   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:2056   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:2738   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:5384   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1:5684   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1:6241   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1:7818   warning  'n' is assigned a value but never used                                     no-unused-vars
+  1:14648  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1:18084  warning  Expected a 'break' statement before 'case'                                 no-fallthrough
+  1:22497  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1:22757  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1:22796  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1:22859  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1:22898  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1:22961  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1:23005  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1:23054  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:27625  warning  'WebKitCSSMatrix' is not defined                                           no-undef
+  1:33187  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1:37377  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1:39721  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1:43033  warning  'n' is defined but never used                                              no-unused-vars
+  1:43083  warning  'n' is defined but never used                                              no-unused-vars
+
+✖ 107 problems (0 errors, 107 warnings)
+
