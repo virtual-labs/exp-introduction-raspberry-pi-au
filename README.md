@@ -8,7 +8,7 @@
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+
 
 <b>Name of Developer | <b> Dr. Krishnashree Achuthan
 :--|:--|
