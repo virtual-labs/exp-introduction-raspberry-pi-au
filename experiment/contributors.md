@@ -1,4 +1,4 @@
-### Developers
+### Contributors
 
 | SNo. |   Name   |         Email         |         Institute          |    ID    |
 | :--: | :------: | :-------------------: | :------------------------: | :------: |
