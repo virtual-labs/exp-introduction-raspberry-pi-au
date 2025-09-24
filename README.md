@@ -4,7 +4,7 @@
 <b>Discipline | <b>Computer Science and Engineering
 :--|:--|
 <b> Lab | <b> Internet of Things (IoT) 
-<b> Experiment|     <b> Introduction to Raspberry PI platform and necessary software installation
+<b> Experiment|     <b> Raspberry Pi
 
 ### About the Experiment 
 
