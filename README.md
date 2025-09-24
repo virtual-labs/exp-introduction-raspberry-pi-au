@@ -14,7 +14,7 @@
 :--|:--|
 <b> Institute | <b>  Amrita Vishwa Vidyapeetham 
 <b> Email id|     <b>    krishna@amrita.edu
-<b> Department |  <br> Center for Cyber security
+<b> Department |   Center for Cyber security
 
 
 ### Contributors List
