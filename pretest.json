@@ -1,0 +1,71 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What does GPIO stand for in Raspberry Pi?",
+      "answers": {
+        "a": "General Purpose Input Output",
+        "b": "Global Port Input Output",
+        "c": "General Processing Internal Operation",
+        "d": "Graphical Pin Interface Output"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the function of GPIO pins on a Raspberry Pi?",
+      "answers": {
+        "a": "Store the operating system",
+        "b": "Control and read signals from external devices",
+        "c": "Display images on the screen",
+        "d": "Increase internet speed"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which Raspberry Pi pins are used to complete an electrical circuit?",
+      "answers": {
+        "a": "GPIO pins",
+        "b": "GND pins",
+        "c": "Power pins",
+        "d": "Camera pins"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Can GPIO pins be configured as both input and output?",
+      "answers": {
+        "a": "Yes",
+        "b": "No",
+        "c": "Only output",
+        "d": "Only input"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is a common voltage level used by GPIO pins on Raspberry Pi?",
+      "answers": {
+        "a": "1.8V",
+        "b": "3.3V",
+        "c": "5V",
+        "d": "12V"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What type of signals can GPIO pins handle?",
+      "answers": {
+        "a": "Only digital signals",
+        "b": "Only analog signals",
+        "c": "Both digital and analog signals",
+        "d": "No signals"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
