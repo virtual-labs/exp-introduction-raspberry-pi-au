@@ -1,8 +1,8 @@
 ### Contributors
 
-| SNo. |   Name   |         Email         |         Institute          |    ID    |
+| SNo. |   Name   |   ID      |     Institute         |     Email            |
 | :--: | :------: | :-------------------: | :------------------------: | :------: |
-|  1   | S. Aasha Nandhini | S_aashanandhini@ch.amrita.edu.in | Amrita Vishwa Vidyapeetham |  |
-|  2   | Anandi K | anandik@am.amrita.edu | Amrita Vishwa Vidyapeetham |  |
-|  3   | Pavithra S P | pavithrasp@am.amrita.edu | Amrita Vishwa Vidyapeetham |  |
-|  4   | Aashraya Katiyar  |  | Amrita Vishwa Vidyapeetham | AM.EN.U4AIE21085 |
+|  1   | S. Aasha Nandhini | | Amrita Vishwa Vidyapeetham | S_aashanandhini@ch.amrita.edu.in  |
+|  2   | Pavithra S P || Amrita Vishwa Vidyapeetham |  pavithrasp@am.amrita.edu  |
+|  3   | Anandi K |  | Amrita Vishwa Vidyapeetham | anandik@am.amrita.edu |
+|  4   | Aashraya Katiyar  |  AM.EN.U4AIE21085 | Amrita Vishwa Vidyapeetham | |
