@@ -1,1 +1,1 @@
-## Introduction to Raspberry Pi |
+## Introduction to Raspberry Pi
