@@ -1,5 +1,3 @@
-###  Theory
-
 #### Introduction
 
 The **Raspberry Pi** is a small, affordable single-board computer developed by the Raspberry Pi Foundation. It was originally created to promote the teaching of basic computer science in schools and developing countries, but has since gained popularity among hobbyists and professionals for a wide variety of projects.
@@ -7,7 +5,7 @@ The **Raspberry Pi** is a small, affordable single-board computer developed by t
 
 The board can run a full Linux operating system (commonly Raspberry Pi OS) and is capable of performing tasks such as programming, running servers, automating hardware, and even creating media centers and IoT systems.
 
-   <div><img src="./images/Raspberry.jpg" alt="re-entrance" width='70%'></div>
+   <div><img src="./images/Raspberry.jpg" alt="re-entrance" width='40%'></div>
 
 
 
@@ -80,10 +78,6 @@ Some GPIOs are **multiplexed** with special functions like I2C, SPI, and UART. T
 |-----|------|----------|
 | 8   | GPIO14 | TXD (Transmit) |
 | 10  | GPIO15 | RXD (Receive)  |
-
-
-
-
 
 
 #### Uses of Raspberry Pi

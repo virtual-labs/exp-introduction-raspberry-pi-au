@@ -1,24 +1,27 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Computer Science and Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Internet of Things (IoT) 
+<b> Experiment|     <b> Introduction to Raspberry Pi
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+
+<b>Name of Developer | <b> Dr. Krishnashree Achuthan
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham 
+<b> Email id|     <b>    krishna@amrita.edu
+<b> Department |   Center for Cyber Security Systems and Networks
+
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | S. Aasha Nandhini | Faculty | Computer Science and Engineering | Amrita Vishwa Vidyapeetham | S_aashanandhini@ch.amrita.edu.in
+2 | Pavithra S P  |Faculty | Center for Cyber Security Systems and Networks |Amrita Vishwa Vidyapeetham | pavithrasp@am.amrita.edu
+3 | Anandi K | Faculty | Center for Cyber Security Systems and Networks| Amrita Vishwa Vidyapeetham | anandik@am.amrita.edu
+4 | Aashraya Katiyar |Student| Computer Science and Engineering |Amrita Vishwa Vidyapeetham |
